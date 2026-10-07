@@ -1,0 +1,134 @@
+.text_above {
+    color: rgba(0, 0, 0, 0.75);
+    font-family:'Courier New', Courier, monospace;
+    font-size: 40px;
+    text-align: center;
+    background-color:rgba(255, 145, 0, 0.25);
+    border-radius: 10px;
+}
+
+.middle_text {
+
+    color: rgba(0, 0, 0, 0.375);
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-align: center;
+    background-color:rgba(255, 145, 0, 0.125);
+    border-radius: 10px;
+}
+
+.text_base {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 20px;
+}
+
+.welcome_text {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 20px;
+    padding: 40px;
+    background-color:rgba(255, 145, 0, 0.125);
+    border-radius: 10px;
+}
+
+.image_index {
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+    padding: 40px 40px 40px 40px;
+    text-decoration: none;
+    background-color:rgba(255, 145, 0, 0.25);
+    border-radius: 10px;
+}
+
+.button:hover {
+    background-color:rgba(255, 145, 0, 0.5);
+}
+
+.table_base {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+    padding: 20px 40px 20px 40px;
+    text-decoration: none;
+    gap: 40px;
+    background-color:rgba(255, 145, 0, 0.5);
+    border-radius: 10px;
+    width: 1400px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.table_base th {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+    width: 350px;
+}
+
+.table_sub {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+    padding: 20px 40px 20px 40px;
+    text-decoration: none;
+    gap: 40px;
+    background-color:rgba(255, 145, 0, 0.125);
+    border-radius: 10px;
+    width: 1400px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.table_sub th {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+    width: 350px;
+}
+
+.table_sub_2 {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+    padding: 20px 40px 20px 40px;
+    text-decoration: none;
+    gap: 40px;
+    background-color:rgba(255, 145, 0, 0.25);
+    border-radius: 10px;
+    width: 1400px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.table_sub_2 th {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+    width: 350px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding: 10px;
+    background-color:rgba(255, 145, 0, 0.125);
+    border-radius: 10px;
+}
